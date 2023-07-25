@@ -4,7 +4,7 @@ const styles = StyleSheet.create({
         width: "95%",
         height: "auto",
         backgroundColor: "#000",
-        // marginLeft: "3%",
+        marginLeft: "3%",
         borderRadius: 10,
         marginBottom: 300,
         flexDirection: "row",

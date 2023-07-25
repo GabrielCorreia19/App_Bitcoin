@@ -9,7 +9,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#000"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -20,11 +20,11 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
+        "backgroundColor": "#000000"
+      },
+      "package": "com.bitcoin.BitCoinApp",
+      "versionCode": 1
     }
+    
   }
 }
